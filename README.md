@@ -1,4 +1,7 @@
-### Hi there 👋
+
+
+
+![StarWars_github](https://user-images.githubusercontent.com/86204141/150651612-d14e5e5a-cf75-4f85-be59-8e9b9e45be79.jpg)
 
 <!--
 **NicolaL95/NicolaL95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
