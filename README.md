@@ -3,6 +3,9 @@
 
 ![StarWars_github](https://user-images.githubusercontent.com/86204141/150651612-d14e5e5a-cf75-4f85-be59-8e9b9e45be79.jpg)
 
+- ⚡ Fun fact: 
+There is a theory that interprets the universe as an artificial simulation. But what if the universe that created the simulation was also a simulation? 
+
 <!--
 **NicolaL95/NicolaL95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
